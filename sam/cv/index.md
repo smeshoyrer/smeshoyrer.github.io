@@ -1,1 +1,1 @@
-[CV](./smeshoyrer_cv.pdf)]
+[CV](./smeshoyrer_cv.pdf)
