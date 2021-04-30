@@ -1,2 +1,2 @@
-Source code for my website, hosted at [https://meshoyrer.com](meshoyrer.com) 
+Source code for my website, hosted at [meshoyrer.com](https://meshoyrer.com) 
 
