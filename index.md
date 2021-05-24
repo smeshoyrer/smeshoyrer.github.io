@@ -11,3 +11,4 @@ This summer, I'm assisting in teaching a new course at Columbia University, *C++
 
 [CV](./sam/cv/smeshoyrer_cv.pdf)
 
+[Engagement](./samandali/engagement/index.md)
