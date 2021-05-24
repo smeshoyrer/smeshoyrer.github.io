@@ -28,7 +28,7 @@ We couldn't be happier.
 
 ![Photo9](../../assets/imgs/engagement/DSC00198.jpeg "Celebration")
 
-Now all that's left is celebration!
+Time for champagne! 🍾
 
 ![Photo10](../../assets/imgs/engagement/DSC00229.jpeg "The ring")
 ![Photo11](../../assets/imgs/engagement/DSC00260.jpeg "The happy couple")
@@ -40,11 +40,11 @@ We couldn't have done it without a little help from our friends.
 ![Photo13](../../assets/imgs/engagement/DSC00295.jpeg "Ready to go out")
 ![Photo14](../../assets/imgs/engagement/DSC00302.jpeg "At the River Cafe")
 
-Ali and Sam went to celebrate their engagement at the [River Cafe](https://rivercafe.com/).
+Dinner at the [River Cafe](https://rivercafe.com/).
 
 
 ![Photo15](../../assets/imgs/engagement/DSC00292.jpeg "A celebration of love")
-Thank you all for joining us on this celebration of love. 
+Thank you all for joining us on this celebration of love ❤️ 
 
 ![Photo16](../../assets/imgs/engagement/DSC00290.jpeg "Dog Tax")
 Dog Tax, courtesy of Loki! 
