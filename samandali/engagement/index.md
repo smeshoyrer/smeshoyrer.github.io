@@ -1,6 +1,6 @@
 # Sam and Ali's Engagement
 
-On May 22 2019, an unsuspecting Ali joined Sam and some friends on a trip to the [New York Botanical Gardens](https://www.nybg.org/)
+On May 22 2021, an unsuspecting Ali joined Sam and some friends on a trip to the [New York Botanical Gardens](https://www.nybg.org/)
 
 ![Photo1](../../assets/imgs/engagement/DSC00072.jpeg "In the field")
 
