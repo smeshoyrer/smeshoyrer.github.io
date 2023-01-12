@@ -4,11 +4,13 @@ layout: default
 
 # About Me
 
-I am a software developer at [AWS](https://aws.amazon.com/) and an MSc student in [Computer Science](https://www.cs.columbia.edu/) at Columbia University. I'm interested in how queueing theory and probability models can inform the design of distributed systems. 
+I am a software engineer at [Google](https://google.com/) and an MSc student in [Computer Science](https://www.cs.columbia.edu/) at Columbia University. I'm interested in how queueing theory and stochastic models can inform the design of distributed systems. 
 
-This summer, I'm assisting in teaching a new course at Columbia University, [*C++ for C Programmers*](http://www.cs.columbia.edu/~jae/4995/).
+In the past, I've assisted in teaching a number of courses at Columbia University, including [*C++ for C Programmers*](http://www.cs.columbia.edu/~jae/4995/).
 
 
-[CV](./sam/cv/smeshoyrer_cv.pdf)
+[CV (outdated)](./sam/cv/smeshoyrer_cv.pdf)
 
 [Engagement](./samandali/engagement/index.md)
+
+[Wedding](./wedding/index.md)
